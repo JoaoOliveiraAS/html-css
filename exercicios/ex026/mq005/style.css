@@ -25,9 +25,9 @@ menu > ul {
     text-align:center;
     color:white;
     text-decoration: none;
-    display:block;
     border-top:2px solid gray;
-    display:none;
+   display:block;
+   display:none;
    
 }
 a:hover {
